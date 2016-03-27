@@ -1,0 +1,28 @@
+name: burtonts
+favicon: null
+layout_spectrum: 0.7478867110330611
+typography_spectrum: 0.4399839856196195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8995452434755862
+  lightness: 0.7575189808849245
+  saturation: 0.10452441545203328
+  rhythmicContrast: 0.7527820663526654
+purpose: []
